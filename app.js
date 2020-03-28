@@ -1,1 +1,2 @@
-console.log("Firs Commit");
+console.log("First Commit");
+console.log("Second Commit");
